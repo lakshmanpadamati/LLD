@@ -6,9 +6,9 @@
 ## Types of Creational Design Patterns
 - Singleton
 - Factory Method
--  Abstract Factory
--  Builder
--  Prototype
+- Abstract Factory
+- Builder
+- Prototype
 
 ## Singleton Design Pattern
 It is a creational design patterns which ensures or restricts a class to have only one instance throughout the application and provides global point of access to it.
@@ -32,4 +32,10 @@ public class Logger {
     }
 }
 ```
+## Behavioral Design pattern
+It is a category of design patterns which are concerned with algorithms and the assignment of responsibilities between objects.
+## Types of behavioral design pattern
+
+
+
 
